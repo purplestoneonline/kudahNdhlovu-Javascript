@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to KUDAH NDHLOVU's Javascript ALGORITHM WEBSITE 
 
 You can use the [editor on GitHub](https://github.com/stingz93/kudahNdhlovu-Javascript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
